@@ -1,4 +1,3 @@
-// -------------- Stack Implementation --------------------//
 #include <stdio.h>
 #include "stack.h"
 
