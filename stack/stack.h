@@ -1,3 +1,5 @@
+// -------------- Stack Implementation --------------------//
+
 #pragma once
 #ifndef STACK_H
 #define STACK_H
